@@ -1,1 +1,2 @@
 This is the file one created in mygitdir
+I am in embedded testing training
