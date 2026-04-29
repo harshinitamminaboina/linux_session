@@ -1,1 +1,1 @@
-File 1
+This is the file one created in mygitdir
